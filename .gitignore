@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# FastAPI
+*.log
+
+# Machine Learning
+models/*.pkl
+models/*.joblib
+*.h5
+*.pickle
+
+# Dataset files (optional)
+data/*.csv
+data/*.xlsx
+!data/train.csv
+!data/test.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node (React frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.lock
+
+# Environment files
+.env
+.env.*
