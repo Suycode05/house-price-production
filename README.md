@@ -154,22 +154,3 @@ Pandas
 Joblib
 
 React (Vite)
-
-🎉 Status
-
-✔ Backend working
-✔ Frontend working
-✔ ML pipeline fully automated
-✔ Prediction UI complete
-
-📌 Next Possible Upgrades (Optional)
-
-Model deployment on Render/Verce/Netlify
-
-Feature importance graph
-
-Model versioning with MLflow
-
-CSV upload for batch predictions
-
-Complete full Kaggle submission
